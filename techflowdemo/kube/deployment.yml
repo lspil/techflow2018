@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: hello
-        image: laurentiuspilca/techflow2018:v2
+        image: laurentiuspilca/techflow2018:v3
         ports:
         - containerPort: 8080
